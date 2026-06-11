@@ -74,7 +74,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hissikly&show_icons=true&hide_border=true&title_color=0E8F83&icon_color=0E8F83&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hissikly&layout=compact&hide_border=true&title_color=0E8F83&langs_count=8" />
 
 <br>
