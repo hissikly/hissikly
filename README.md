@@ -79,8 +79,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hissikly&hide_border=true&ring=0E8F83&fire=0E8F83&currStreakLabel=0E8F83" height="165" />
-
 </div>
 
 ---
