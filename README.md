@@ -32,7 +32,6 @@
 
 ![ПУЛЬС MOEX](https://img.shields.io/badge/ПУЛЬС_MOEX_2026-1_место_+_фаст--трек-0E8F83?style=for-the-badge)
 ![Data Fusion](https://img.shields.io/badge/Data_Fusion_2026-8_/_574-0E8F83?style=for-the-badge)
-![PR-AUC](https://img.shields.io/badge/private_PR--AUC-0.1579-1d5650?style=for-the-badge)
 ![Криптонит](https://img.shields.io/badge/Криптонит.тембр-7_место_·_P@K_0.68-1d5650?style=for-the-badge)
 
 </div>
