@@ -63,7 +63,7 @@
 | [**fin-grow_moex_app**](https://github.com/hissikly/fin-grow_moex_app) | Финтех-продукт MOEX для роста конверсии вкладов у молодёжи (кейс DEADLINE ЦУ) | Python · продукт | 🏅 призёры + стажировка |
 | [**moex_liquidity_mvp**](https://github.com/hissikly/moex_liquidity_mvp) | AI/ML для управления ликвидностью срочного рынка (ПУЛЬС MOEX 2026) | Python · ML · финмодель | 🥇 1 место + фаст-трек |
 | [**kryptonite_dataton_2026**](https://github.com/hissikly/kryptonite_dataton_2026) | Audio retrieval: поиск похожих аудио по записи клиента (Криптонит.Тембр) | PyTorch · ECAPA · WavLM | 7 место · P@K 0.68 |
-| [**foodai-react-project**](https://github.com/hissikly/foodai-react-project) | «Сбрось-ка!» — расчёт кбжу под ваши цели, индивидуальные планы питания и тренировко | JavaScript · React · FastAPI | in progress |
+| [**foodai-react-project**](https://github.com/hissikly/foodai-react-project) | FoodAI — расчёт кбжу под ваши цели, подсчет нормы калорий и калорий по фото пищи | JavaScript · React · FastAPI | in progress |
 | [**tecnopark_service_miniapp_bot**](https://github.com/hissikly/tecnopark_service_miniapp_bot) | MVP подписки на доп. обслуживание товаров для «Технопарк» | JavaScript | MVP |
 
 ---
