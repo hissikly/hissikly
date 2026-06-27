@@ -22,12 +22,13 @@
 ---
  
 ## 🏆 Ключевые результаты
- 
+
 <div align="center">
-![ПУЛЬС MOEX](https://img.shields.io/badge/ПУЛЬС_MOEX_2026-1_место_+_фаст--трек-0E8F83?style=for-the-badge)
-![Data Fusion](https://img.shields.io/badge/Data_Fusion_2026-8_/_574-0E8F83?style=for-the-badge)
-![Криптонит](https://img.shields.io/badge/Криптонит.тембр-7_место_·_P@K_0.68-1d5650?style=for-the-badge)
- 
+
+![ПУЛЬС MOEX](https://img.shields.io/badge/ПУЛЬС%20MOEX%202026-1%20место%20%2B%20фаст--трек-0E8F83?style=for-the-badge)
+![Data Fusion](https://img.shields.io/badge/Data%20Fusion%202026-8%20%2F%20574-0E8F83?style=for-the-badge)
+![Kryptonite](https://img.shields.io/badge/Криптонит.тембр-7%20место%20P%40K%200.68-1d5650?style=for-the-badge)
+
 </div>
 ---
  
